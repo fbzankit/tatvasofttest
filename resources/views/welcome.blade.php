@@ -14,6 +14,9 @@
 	<td colspan="2">
 		<strong>Event List Page</strong>
 	</td>
+    <td>
+        <a href="{{ url('/addEvent') }}">Add Event</a>
+    </td>
 </tr>
 
 <tr>
